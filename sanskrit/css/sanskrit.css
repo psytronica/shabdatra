@@ -1,0 +1,278 @@
+/*
+* Sanskrit v1.0
+* Автор: Мара Черкасова
+* Email: mara.scorpio@yandex.ru
+*/
+
+.zgx_devanagari #zgx_answer{
+  font-size: 22px;
+  padding-top:2px;
+  font-family: zgxChandas, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.psy_opera #zgx_answer{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+/************************************************/
+#zgx_sanskrit_verbs{
+  background: url(../../images/bg/bg1.jpg) center top repeat;
+
+}
+
+#zgx_verb{
+    color:rgb(0, 208, 19);
+    text-shadow: 2px 2px 2px #000, 2px 2px 10px #000;
+    font-size:40px;
+}
+
+#zgx_sanskrit_verbs .btn.btn-success {
+    background-image: -webkit-linear-gradient(top, #73c733 0%, #084e08 100%);
+    background-image: -o-linear-gradient(top, #73c733 0%, #084e08 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#73c733), to(#084e08));
+    background-image: linear-gradient(to bottom, #73c733 0%, #084e08 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff73c733', endColorstr='#ff084e08', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    background-repeat: repeat-x;
+    border-color: #3e8f3e;
+}
+
+#zgx_sanskrit_verbs .btn.btn-success.active{
+    background-image: -webkit-linear-gradient(top, #084e08 0%, #73c733 100%);
+    background-image: -o-linear-gradient(top, #084e08 0%, #73c733 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#084e08), to(#73c733));
+    background-image: linear-gradient(to bottom, #084e08 0%, #73c733 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff084e08', endColorstr='#ff73c733', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    background-repeat: repeat-x;
+    color: #012508;
+    text-shadow: 0px 0px 3px #fff;
+}
+
+#zgx_sanskrit_verbs .btn.btn-success:hover,
+#zgx_sanskrit_verbs .btn.btn-success:focus {
+    background-color: #084e08;
+}
+#zgx_sanskrit_verbs .btn.btn-success.active:hover,
+#zgx_sanskrit_verbs .btn.btn-success.active:focus{
+    background-color: #73c733;
+
+}
+
+#zgx_sanskrit_verbs .btn.btn-warning {
+    color: #271a00;
+    text-shadow: 0px 0px 2px #fff;
+    font-weight: bold;
+
+    background-image: -webkit-linear-gradient(top, #eaff3b 0%, #9e7e0a 100%);
+    background-image: -o-linear-gradient(top, #eaff3b 0%, #9e7e0a 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#eaff3b), to(#9e7e0a));
+    background-image: linear-gradient(to bottom, #eaff3b 0%, #9e7e0a 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffeaff3b', endColorstr='#ff9e7e0a', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    background-repeat: repeat-x;
+    border-color: #b1930d;
+
+}
+#zgx_sanskrit_verbs .btn.btn-warning.active {
+    background-image: -webkit-linear-gradient(top, #9e7e0a 0%, #eaff3b 100%);
+    background-image: -o-linear-gradient(top, #9e7e0a 0%, #eaff3b 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#9e7e0a), to(#eaff3b));
+    background-image: linear-gradient(to bottom, #9e7e0a 0%, #eaff3b 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff9e7e0a', endColorstr='#ffeaff3b', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+
+    color: #400;
+
+}
+#zgx_sanskrit_verbs .btn.btn-warning:hover,
+#zgx_sanskrit_verbs .btn.btn-warning:focus {
+    background-color: #9e7e0a;
+}
+#zgx_sanskrit_verbs .btn.btn-warning.active:hover,
+#zgx_sanskrit_verbs .btn.btn-warning.active:focus{
+    background-color: #eaff3b;
+  
+}
+
+.zgx_devanagari #zgx_answer {
+    background: rgba(5, 62, 5, 0.8);
+    border-top: 1px solid #43ff00;
+    border-bottom: 1px solid #949300;
+}
+
+.zgx_devanagari #zgx_answer_group.has-success #zgx_answer{
+  background: rgba(80, 200, 80, 0.8);
+  text-shadow: 1px 1px 1px black;
+}
+
+.zgx_brand {
+    text-shadow: 0px 0px 2px #38ff00, 0px 0px 6px #ccff00, 0px 0px 1px #59ec06;
+}
+
+#zgx_sanskrit_verbs .badge{
+  background:#237106;
+}
+
+#zgx_sanskrit_verbs .list-group-item.active{
+text-shadow: 0 -1px 0 #122d05;
+background-image: -webkit-linear-gradient(top, #90b733 0%, #09650c 100%);
+background-image: -o-linear-gradient(top, #90b733 0%, #09650c 100%);
+background-image: -webkit-gradient(linear, left top, left bottom, from(#90b733), to(#09650c));
+background-image: linear-gradient(to bottom, #90b733 0%, #09650c 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff90b733', endColorstr='#ff09650c', GradientType=0);
+background-repeat: repeat-x;
+border-color: #529a2b;
+
+}
+
+#zgx_sanskrit_verbs .form-control::-moz-placeholder {
+  color: #a6c315;
+  font-size:18px;
+  opacity: 1;
+}
+#zgx_sanskrit_verbs .form-control:-ms-input-placeholder {
+  color: #a6c315;
+  font-size:18px;  
+}
+#zgx_sanskrit_verbs .form-control::-webkit-input-placeholder {
+  color: #a6c315;
+  font-size:18px;  
+}
+
+#zgx_sanskrit_verbs .list-group-item .list-group-item-heading{
+      color: #e6e656;
+}
+#zgx_sanskrit_verbs .list-group-item.active .list-group-item-heading{
+      color: #fff;
+}
+
+#zgx_sanskrit_verbs  .dropdown-menu {
+        color: #fff;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+
+#zgx_sanskrit_verbs  .dropdown-menu > li > a{
+    -moz-transition: background-color .3s ease-in;
+    -webkit-transition: background-color .3s ease-in;
+    -o-transition: background-color .3s ease-in;
+    transition: background-color .3s ease-in;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+#zgx_sanskrit_verbs  .dropdown-menu > li > a:hover{
+  color:#ffc;
+  background-color: #339D00;
+
+    -moz-transition: background-color 0.01s;
+    -webkit-transition: background-color 0.01s;
+    -o-transition: background-color 0.01s;
+    transition: background-color 0.01s;
+
+   -moz-box-shadow:    inset 0 0 20px #000000, inset 0 0 40px #000000, inset 0 0 60px #000000;
+   -webkit-box-shadow: inset 0 0 20px #000000, inset 0 0 40px #000000, inset 0 0 60px #000000;
+   box-shadow:         inset 0 0 20px #000000, inset 0 0 40px #000000, inset 0 0 60px #000000;
+}
+
+#zgx_sanskrit_verbs  .dropdown-menu > li > a.disabled{
+  color:#aaa;
+  display: none;
+}
+
+
+#zgx_allforms{
+	margin-top: 20px;
+	text-align: center;
+	display: none;
+
+}
+#zgx_allforms_heading{
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+#zgx_allforms table{
+	width: 100%;
+	font-size: 20px;
+}
+.zgx_devanagari #zgx_allforms table{
+		font-size: 24px;
+
+}
+
+#zgx_allforms table thead th{
+	font-size: 14px;	
+	text-align: center;
+	color:rgb(68, 247, 85);		
+}
+#zgx_allforms table tbody tr td{
+	border-top:1px solid #273303;
+}
+
+#zgx_allforms table .zgx_allforms_fcol{
+	font-size: 14px;	
+	color: #e6e656;
+	border:none;
+}
+
+#zgx_keyboard{
+	margin-top: 20px;
+	text-align: center;
+	display: none;
+
+}
+
+#zgx_keyboard .zgx_keybut{
+	margin:5px;
+	padding:2px 10px;
+	font-size: 16px;
+}
+
+#zgx_help_wrapper{
+  display: none;
+}
+
+.zgx_hopt{
+  margin:0px 0px 10px 0px;
+}
+#zgx_help_popover_inner b{
+  color: #30f45b;
+}
+.zgx_li_marker{
+   color: #30f45b; 
+}
+
+
+  .zgx_answer_content{
+    font-size: 20px;
+  }
+
+
+  #zgx_progress.progress {
+    background-image: -webkit-linear-gradient(top, #000000 0%, #1c3c1d 100%);
+    background-image: -o-linear-gradient(top, #000000 0%, #1c3c1d 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#1c3c1d));
+    background-image: linear-gradient(to bottom, #000000 0%, #1c3c1d 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff000000', endColorstr='#ff1c3c1d', GradientType=0);
+    background-repeat: repeat-x;
+
+    margin: 40px auto 0 auto;
+    width: 50%;
+}
+
+.progress-bar-success {
+    background-image: -webkit-linear-gradient(top, #2eb12e 0%, #032b03 100%);
+    background-image: -o-linear-gradient(top, #2eb12e 0%, #032b03 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#2eb12e), to(#032b03));
+    background-image: linear-gradient(to bottom, #2eb12e 0%, #032b03 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff2eb12e', endColorstr='#ff032b03', GradientType=0);
+    background-repeat: repeat-x;
+}
+
+
+#zgx_popover_div .popover{
+  max-width: 600px;
+}
