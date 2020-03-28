@@ -8,30 +8,30 @@
 var ZGX = ZGX || {};
 
 // Подгрузка необходимых скриптов
-var zgx_scripts = ['verbs.js', 'terms.js', 'times.js', 'lib.js'];
+// var zgx_scripts = ['verbs.js', 'terms.js', 'times.js', 'lib.js'];
 
 jQuery( document ).ready(function() {
 
 	if(!jQuery("#zgx_shabdatra")[0]) return;
 
-	var loaded_count = 0;
+	/* var loaded_count = 0;
 
 	for (var scr in zgx_scripts){
 
 		jQuery.getScript('sanskrit/js/'+zgx_scripts[scr], function(){
 			loaded_count++;
 		});
-	}
+	} */
 
 
 	var zgx_interval = setInterval(function(){  
 
-		if(loaded_count == zgx_scripts.length){
+		//if(loaded_count == zgx_scripts.length){
 			clearInterval(zgx_interval);
 			ZGX.begin();
-		}
+		//}
 
-	}, 20);
+	}, 300);
 
 });
 
