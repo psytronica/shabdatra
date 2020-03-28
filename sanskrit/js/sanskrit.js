@@ -1141,7 +1141,7 @@ var html = "\
                 </span>\
                 По всем вопросам, предложениям и замечаниям по работе программы пишите на мой электронный адрес:\
                 <div id='zgx_help_mail'>\
-                     mara.scorpio <span class='glyphicon glyphicon-envelope'/> yandex.ru\
+                     leo.iris <span class='glyphicon glyphicon-envelope'/> yandex.ru\
                 </div>\
             </div>                                           \
         </div>\
