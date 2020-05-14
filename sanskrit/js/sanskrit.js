@@ -1,7 +1,7 @@
 /*
 * Sanskrit v1.0
-* Автор: Мара Черкасова
-* Email: mara.scorpio@yandex.ru
+* Автор: Xekima
+* Email: xekima@yandex.ru
 */
 
 // global namespace
@@ -1141,7 +1141,7 @@ var html = "\
                 </span>\
                 По всем вопросам, предложениям и замечаниям по работе программы пишите на мой электронный адрес:\
                 <div id='zgx_help_mail'>\
-                     leo.iris <span class='glyphicon glyphicon-envelope'/> yandex.ru\
+                     xekima <span class='glyphicon glyphicon-envelope'/> yandex.ru\
                 </div>\
             </div>                                           \
         </div>\
