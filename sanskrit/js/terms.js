@@ -1,7 +1,7 @@
 /*
 * Sanskrit v1.0
-* Автор: Мара Черкасова
-* Email: mara.scorpio@yandex.ru
+* Автор: Xekima
+* Email: xekima@yandex.ru
 */
 
 ZGX.TERMS = {
