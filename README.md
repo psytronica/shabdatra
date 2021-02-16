@@ -1,4 +1,4 @@
-# sanskrit
+# shabdatra
 Программа для запоминания форм глаголов санскрита
 
 Запустить программу: https://psytronica.github.io/shabdatra/
