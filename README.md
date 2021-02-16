@@ -1,7 +1,7 @@
 # sanskrit
 Программа для запоминания форм глаголов санскрита
 
-Запустить программу: https://scorpioza.github.io/sanskrit/
+Запустить программу: https://psytronica.github.io/shabdatra/
  <div id="sanskrit_instruction" >
                     <div id="sanskrit_instruction_inner">
                     <h2>Описание работы программы:</h2>
